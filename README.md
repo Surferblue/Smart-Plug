@@ -9,11 +9,11 @@
 
 ---
 
-<img width="2000" height="2000" alt="изображение" src="https://github.com/user-attachments/assets/489ab960-34ff-46a6-95d5-527c72b1ae81" />
+<img width="500" height="500" alt="изображение" src="https://github.com/user-attachments/assets/489ab960-34ff-46a6-95d5-527c72b1ae81" />
 
 *Рис 1. Вид устройства сбоку*
 
-<img width="2000" height="2000" alt="изображение" src="https://github.com/user-attachments/assets/c75eb790-3fff-4122-bcfb-d282f1bca499" />
+<img width="500" height="500" alt="изображение" src="https://github.com/user-attachments/assets/c75eb790-3fff-4122-bcfb-d282f1bca499" />
 
 *Рис 2. Упаковка с умной розеткой.*
 
